@@ -7,7 +7,7 @@ easy IoT and IoTT
 
 * GitHub https://github.com/blinking-led/easy-IoT
 * Youtube https://www.youtube.com/c/BlinkingLed
-* |Дзен https://zen.yandex.ru/id/628491a9a5abcc4d8d01dea0
+* Дзен https://zen.yandex.ru/id/628491a9a5abcc4d8d01dea0
 * Донат https://donate.stream/BlinkingLED
 
 #blinkingled
